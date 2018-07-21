@@ -20,6 +20,21 @@ class TextAnalysis():
     def get20LeastFrequentWords(self):
     	pass
 
+    def getFrequencyOfWord(self):
+        pass
+
+    def getChapterQuoteAppears(self):
+        pass
+
+    def generateSentence(self):
+        pass 
+
+    def getAutocompleteSentence(self):
+        pass 
+
+    def findClosestMatchingQuote(self):
+        pass 
+
      
 
 
